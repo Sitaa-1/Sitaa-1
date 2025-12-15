@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/keshari-moundekar-60185227b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/keshari-moundekar-60185227b/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/https://www.instagram.com/kesharianilmoundekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kesharianilmoundekar/" height="33" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.leetcode.com/https://leetcode.com/u/kesharimoundekar/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="https://leetcode.com/u/kesharimoundekar/" height="34" width="40" /></a>
+<a href="https://leetcode.com/u/kesharimoundekar/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="https://leetcode.com/u/kesharimoundekar/" height="34" width="40" /></a>
 </p>
 <br>
 <h3 align="left">🖥️ Languages and Tools:</h3>
