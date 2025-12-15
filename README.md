@@ -1,4 +1,4 @@
-<h1>Hi ✨, I'm Keshari</h1>
+<h1>✨ Hi, I'm Keshari</h1>
 <p>I am a passionate fullstack java developer with the knowledge of Core & Adv. java, <br>SQL, Oracle, Web technologies, React.Js, Shopify</p>
 
 - 🌱 I’m currently learning 
