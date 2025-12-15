@@ -1,4 +1,6 @@
-## Hi there 👋
+## ✨Hi, I'm Keshari !!
+I am a passionate fullstack java developer with the knowledge of 
+Core & Adv. java, Oracle, Web technologies, React.Js 
 
 <!--
 **Sitaa-1/Sitaa-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
