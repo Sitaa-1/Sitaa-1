@@ -1,6 +1,5 @@
-
 <h1>✨ Hi, I'm Keshari</h1>
-<img align="right" height="200" src="https://private-user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU5ODkwMjMsIm5iZiI6MTc2NTk4ODcyMywicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4NzEtMDhmYTlmNWItZGNiNy00ZjVlLTg3MjEtMjAzNDY4ZGRhNWYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjE3VDE2MjUyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdkNTgzMDYzZTE0NTFiZTE5YzY0MWM4M2M1ZjBmNTQwZWY0MDFmOGJjOTIzNTNkYjQxOGVmYjExZDFmMGMyYTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.E5wdvgX2BLk-YN2YP6RPaKxr764YGNiGBzgsTa0pHS0"/>
+
 <p>I am a passionate fullstack java developer with the knowledge of Core & Adv. java, <br>SQL, Oracle, Web technologies, React.Js, Shopify</p>
 
 
