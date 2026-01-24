@@ -1,7 +1,6 @@
 <h1>✨ Hi, I'm Keshari</h1>
 <p>I am a passionate fullstack java developer with the knowledge of Core & Adv. java, <br>SQL, Oracle, Web technologies, React.Js, Shopify</p> 
-<img align="right" src="https://private-user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY1ODQwNTAsIm5iZiI6MTc2NjU4Mzc1MCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4NzEtMDhmYTlmNWItZGNiNy00ZjVlLTg3MjEtMjAzNDY4ZGRhNWYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI0VDEzNDIzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY0M2Q1NTdkZjlhMDE2MDQxMzYyNGUwNDM2YjExMDljYzA5ZDNmNWI5N2YxZjU3MDE1NDE4ZGI4YTc5NjkzNjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.szZ811Fo0tLy0hngFt97cQ21Ifc32fZqwvRkTWgjWhs" width="230" height="206">
-
+<img align="right" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" width="280" height="300">
 
 - 🌱 I’m currently learning 
 - 👩‍💻 Expanding knowledge in Software development
@@ -31,3 +30,8 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
+<h3 align="left">📊Github Status</h3>
+<h2></h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sitaa-1&show_icons=true&locale=en&layout=compact" alt="sitaa-1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sitaa-1&show_icons=true&locale=en" alt="sitaa-1" /></p>
