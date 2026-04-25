@@ -8,10 +8,10 @@
 <br>
 
 <h3 align="left">🌐 Connect with me:</h3><h2></h2>
-<p align="left" display="flex">
-<a href="https://www.linkedin.com/in/keshari-moundekar-60185227b/" target="blank" width="40"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/keshari-moundekar-60185227b/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/kesharianilmoundekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kesharianilmoundekar/" height="33" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/kesharimoundekar/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="https://leetcode.com/u/kesharimoundekar/" height="34" width="40" /></a>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/keshari-moundekar-60185227b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/keshari-moundekar-60185227b/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/kesharianilmoundekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kesharianilmoundekar/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/kesharimoundekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kesharimoundekar/" height="30" width="40" /></a>
 </p>
 
 <br>
