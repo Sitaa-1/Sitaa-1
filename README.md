@@ -1,6 +1,6 @@
 <h1>✨ Hi, I'm Keshari</h1>
 <p>I am a passionate fullstack java developer with the knowledge of Core & Adv. java, <br>SQL, Oracle, Web technologies, React.Js, Shopify</p> 
-<img align="right" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" width="280" height="250">
+<img align="right" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" width="240" height="220">
 
 - 🌱 I’m currently learning 
 - 👩‍💻 Expanding knowledge in Software development
